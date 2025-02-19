@@ -1,3 +1,5 @@
+RXL (Rigid XL 3D printer)
+
 What is the project:
 To build a large format (350mm x 350mm x 450mm), enclosed, high speed, easily modable, 3D printer.
 
@@ -7,7 +9,7 @@ With these printers I find that printing any large scale parts is impossible, ma
 Additionally, the ender 3 build volume is good, but even this has been too small on several occasions (and unenclosed, on the rare case I needed to print ABS).
 
 Design Goals:
- - Build Volume of 350mm x 350mm x 450mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (tool changer area?).
+ - Build Volume of 350mm x 350mm x 450mm, with room to move hotend over nozzle cleaner + purge shoot (similar to Bambu labs) and potentially other future features (too changer area?).
  - Input shaper results of around 50K or above for both axes.
  - Travel speeds of over 700mm/s and general printing accels (at least) double that of the X1C(20k travel, 10k outer wall, etc.)
  - ABSOLUTE RELIABILITY (perfect first layers, minimal print artificats, rare failed prints, etc. (at least on par or better than the X1C).
@@ -19,6 +21,7 @@ Inspirations for this project:
 -RatRig V-Core 4
 
 Frame Justifications:
+https://us.misumi-ec.com/pdf/fa/2010/p2433.pdf
 ..... (to do)
 
 Motion system choice justification:
